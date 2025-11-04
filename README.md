@@ -49,6 +49,6 @@ Based on the received distance data:
 - Implement distance-based motor control for auto braking  
 
 ## Author
-**Muhammad Sajid K**  
+Muhammad Sajid K 
 Embedded Systems Enthusiast | Automotive & IoT Developer  
 [LinkedIn Profile](https://linkedin.com/in/muhammad-sajid-k-620b68257)
